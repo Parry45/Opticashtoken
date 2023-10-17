@@ -1619,7 +1619,7 @@ textarea.w-select {
   margin-right: auto;
 }
 .w-nav-link.w--current {
-  color: #0082f3;
+  color: #CAFF5B;
 }
 .w-nav-menu {
   position: relative;
@@ -1687,6 +1687,7 @@ textarea.w-select {
 .w-nav-button:focus {
   outline: 0;
 }
+
 .w-nav-button.w--open {
   background-color: #C8C8C8;
   color: white;
