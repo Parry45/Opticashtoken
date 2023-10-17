@@ -1320,6 +1320,7 @@ html:lang(ru) #header .btn {
 @media (max-width: 768px) {
     .how-buy .steps .image {
         margin-bottom: 0; /* Set margin to 0 for smaller screens */
+        width: 100%;
     }
 }
 
